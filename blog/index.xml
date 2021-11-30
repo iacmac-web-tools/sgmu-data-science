@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Новости on SGMU.DataScience | Приоритет2030</title>
+    <link>http://ds.smolgmu.ru/blog/</link>
+    <description>Recent content in Новости on SGMU.DataScience | Приоритет2030</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Tue, 16 Nov 2021 15:27:17 +0600</lastBuildDate>
+    
+	<atom:link href="http://ds.smolgmu.ru/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Объявлен набор на новый курс</title>
+      <link>http://ds.smolgmu.ru/blog/blog-post-1/</link>
+      <pubDate>Tue, 16 Nov 2021 15:27:17 +0600</pubDate>
+      
+      <guid>http://ds.smolgmu.ru/blog/blog-post-1/</guid>
+      <description>Набор на курс «Анализ биомедицинских данных» Для студентов 3-6 курсов, ординаторов и аспирантов объявлен набор на обучающий курс «Анализ биомедицинских данных».</description>
+    </item>
+    
+    <item>
+      <title>СГМУ вошел в программу ПРИОРИТЕТ2030</title>
+      <link>http://ds.smolgmu.ru/blog/blog-post-2/</link>
+      <pubDate>Tue, 28 Sep 2021 15:27:17 +0600</pubDate>
+      
+      <guid>http://ds.smolgmu.ru/blog/blog-post-2/</guid>
+      <description>СГМУ вошел в программу ПРИОРИТЕТ2030 27.09.2021 г. министр науки и высшего образования РФ В.</description>
+    </item>
+    
+  </channel>
+</rss>
