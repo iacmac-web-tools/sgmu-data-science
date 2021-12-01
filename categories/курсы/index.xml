@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Курсы on SGMU.DataScience | Приоритет2030</title>
-    <link>http://ds.smolgmu.ru/categories/%D0%BA%D1%83%D1%80%D1%81%D1%8B/</link>
+    <link>https://ds.smolgmu.ru/categories/%D0%BA%D1%83%D1%80%D1%81%D1%8B/</link>
     <description>Recent content in Курсы on SGMU.DataScience | Приоритет2030</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <lastBuildDate>Tue, 16 Nov 2021 15:27:17 +0600</lastBuildDate>
     
-	<atom:link href="http://ds.smolgmu.ru/categories/%D0%BA%D1%83%D1%80%D1%81%D1%8B/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ds.smolgmu.ru/categories/%D0%BA%D1%83%D1%80%D1%81%D1%8B/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Объявлен набор на новый курс</title>
-      <link>http://ds.smolgmu.ru/blog/blog-post-1/</link>
+      <link>https://ds.smolgmu.ru/blog/blog-post-1/</link>
       <pubDate>Tue, 16 Nov 2021 15:27:17 +0600</pubDate>
       
-      <guid>http://ds.smolgmu.ru/blog/blog-post-1/</guid>
+      <guid>https://ds.smolgmu.ru/blog/blog-post-1/</guid>
       <description>Набор на курс «Анализ биомедицинских данных» Для студентов 3-6 курсов, ординаторов и аспирантов объявлен набор на обучающий курс «Анализ биомедицинских данных».</description>
     </item>
     
