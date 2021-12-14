@@ -858,3 +858,12 @@ link:focus,
 
 .hero-slider .nextArrow {
   bottom: -90px; }
+
+.col-xl-6 {
+  padding-top: 15px; }
+
+.content table thead {
+  background: #dbf0f3; }
+
+.content table tbody {
+  background: #ffffff; }
