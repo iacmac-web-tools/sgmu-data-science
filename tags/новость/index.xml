@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Новость on SGMU.DataScience | Приоритет2030</title>
+    <link>https://ds.smolgmu.ru/tags/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%8C/</link>
+    <description>Recent content in Новость on SGMU.DataScience | Приоритет2030</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Mon, 11 Apr 2022 15:27:17 +0600</lastBuildDate>
+    
+	<atom:link href="https://ds.smolgmu.ru/tags/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%8C/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Science и Нетология</title>
+      <link>https://ds.smolgmu.ru/blog/blog-post-8/</link>
+      <pubDate>Mon, 11 Apr 2022 15:27:17 +0600</pubDate>
+      
+      <guid>https://ds.smolgmu.ru/blog/blog-post-8/</guid>
+      <description>Data Science и Нетология 11 апреля 2022 команда проекта Data Science провела совместный круглый стол с образовательной компанией Нетология и Университетом Иннополис для повышения квалификации преподавательского состава в области цифровой трансформации.</description>
+    </item>
+    
+  </channel>
+</rss>
