@@ -6,10 +6,19 @@
     <description>Recent content in Курсы on SGMU.DataScience | Приоритет2030</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Mon, 25 Apr 2022 15:27:17 +0600</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2022 15:27:17 +0600</lastBuildDate>
     
 	<atom:link href="https://ds.smolgmu.ru/categories/%D0%BA%D1%83%D1%80%D1%81%D1%8B/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Регистрация на вебинар «Цифровые технологии в медицине»</title>
+      <link>https://ds.smolgmu.ru/blog/blog-post-10/</link>
+      <pubDate>Wed, 27 Apr 2022 15:27:17 +0600</pubDate>
+      
+      <guid>https://ds.smolgmu.ru/blog/blog-post-10/</guid>
+      <description>Вебинар «Цифровые технологии и платформы в индивидуальных проектах в медицине» 4 мая 2022 в 17:30 младший научный сотрудник Лаборатории биоинформатики Трушин Иван Витальевич проведёт открытый вебинар «Цифровые технологии и платформы в индивидуальных проектах в медицине».</description>
+    </item>
     
     <item>
       <title>Завершён интенсив «Машинное обучение в медицине»</title>
