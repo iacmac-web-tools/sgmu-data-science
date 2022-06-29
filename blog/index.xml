@@ -6,10 +6,19 @@
     <description>Recent content in Новости on SGMU.DataScience | Приоритет2030</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <lastBuildDate>Wed, 04 May 2022 22:27:17 +0600</lastBuildDate>
+    <lastBuildDate>Sun, 15 May 2022 15:27:17 +0600</lastBuildDate>
     
 	<atom:link href="https://ds.smolgmu.ru/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Удостоверения о повышении квалификации</title>
+      <link>https://ds.smolgmu.ru/blog/blog-post-12/</link>
+      <pubDate>Sun, 15 May 2022 15:27:17 +0600</pubDate>
+      
+      <guid>https://ds.smolgmu.ru/blog/blog-post-12/</guid>
+      <description>Удостоверения о повышении квалификации Всем 25 слушателям, прошедшим с 9 по 22 марта 2022 учебный курс «Анализ биомедицинских данных», были выданы удостоверения о повышении квалификации.</description>
+    </item>
     
     <item>
       <title>Завершён вебинар по использованию цифровых ресурсов в медицине</title>
